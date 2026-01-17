@@ -52,11 +52,19 @@ I contribute to open-source projects—fixing bugs, improving docs, and adding f
 
 ---
 
-## Contact
-- X: [@aliberkyucel](https://x.com/aliberkyucel)  
-- LinkedIn: [aliberkyucel](https://www.linkedin.com/in/aliberkyucel)  
-- Website: https://aliberkyucel.com  
-- Projects board: https://github.com/users/aliberkyucel/projects/1  
+## Contact & Socials
+
+<!-- Icons use raw files in your repo: add the SVGs to the root of the `aliberkyucel/aliberkyucel` repo with the filenames used below to show images. -->
+
+[![Instagram](https://raw.githubusercontent.com/aliberkyucel/aliberkyucel/main/instagram-icon.svg)](https://instagram.com/aliberkyucel)  
+[![LinkedIn](https://raw.githubusercontent.com/aliberkyucel/aliberkyucel/main/linkedin-icon.svg)](https://www.linkedin.com/in/aliberkyucel)  
+[![X](https://raw.githubusercontent.com/aliberkyucel/aliberkyucel/main/x-icon.svg)](https://x.com/aliberkyucel)  
+[![RSS](https://raw.githubusercontent.com/aliberkyucel/aliberkyucel/main/rss-icon.svg)](https://aliberkyucel.com/rss)  
+
+- Instagram: https://instagram.com/aliberkyucel  
+- LinkedIn: https://www.linkedin.com/in/aliberkyucel  
+- X: https://x.com/aliberkyucel  
+- Website / RSS: https://aliberkyucel.com (RSS: https://aliberkyucel.com/rss)  
 - Email: [info@aliberkyucel.com](mailto:info@aliberkyucel.com)
 
 ---
