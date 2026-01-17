@@ -57,17 +57,17 @@ I contribute to open-source projects—fixing bugs, improving docs, and adding f
 
 
 <p dir="auto">
-            <a href="https://www.linkedin.com/in/mrbondarenko/" rel="nofollow">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" style="max-width: 100%;">
-            </a>
+<a href="https://www.linkedin.com/in/mrbondarenko/" rel="nofollow">
+<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" style="max-width: 100%;">
+</a>
             
-            <a href="https://www.youtube.com/@OfficialCodeVoyage" rel="nofollow">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube" style="max-width: 100%;">
-            </a>
-            <a href="https://www.instagram.com/pasha.369.bond/" rel="nofollow">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram" style="max-width: 100%;">
-            </a>
-        </p>
+<a href="https://www.youtube.com/@OfficialCodeVoyage" rel="nofollow">
+<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube" style="max-width: 100%;">
+</a>
+<a href="https://www.instagram.com/pasha.369.bond/" rel="nofollow">
+<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram" style="max-width: 100%;">
+</a>
+</p>
 [![Instagram](https://raw.githubusercontent.com/aliberkyucel/aliberkyucel/main/instagram-icon.svg)](https://instagram.com/aliberkyucel)  
 [![LinkedIn](https://raw.githubusercontent.com/aliberkyucel/aliberkyucel/main/linkedin-icon.svg)](https://www.linkedin.com/in/aliberkyucel)  
 [![X](https://raw.githubusercontent.com/aliberkyucel/aliberkyucel/main/x-icon.svg)](https://x.com/aliberkyucel)  
