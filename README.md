@@ -142,12 +142,12 @@ I contribute to open-source projects—fixing bugs, improving docs, and adding f
 ---
 
 ## Blog & Talks
-- Blog / posts: https://aliberkyucel.com  
-- Talks: Add links to talks or recorded sessions here
+- Blog / posts / Web : https://aliberkyucel.com
 
 ---
 
 ## Contact
+- Instagram: [@aliberkyucel](https://instagram.com/aliberkyucel)
 - X: [@aliberkyucel](https://x.com/aliberkyucel)  
 - LinkedIn: [aliberkyucel](https://www.linkedin.com/in/aliberkyucel)  
 - Website: https://aliberkyucel.com  
