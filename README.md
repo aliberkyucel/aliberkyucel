@@ -68,7 +68,6 @@ I contribute to open-source projects—fixing bugs, improving docs, and adding f
 - X: https://x.com/aliberkyucel  
 - Website / RSS: https://aliberkyucel.com (RSS: https://aliberkyucel.com/rss)  
 - Email: [info@aliberkyucel.com](mailto:info@aliberkyucel.com)
-</p>
 ---
 
 ## What I'm Learning
