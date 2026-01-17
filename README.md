@@ -67,7 +67,7 @@ I contribute to open-source projects—fixing bugs, improving docs, and adding f
 <a href="https://www.instagram.com/aliberkyucel/" rel="nofollow">
 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram" style="max-width: 100%;">
 <a href="https://www.x.com/aliberkyucel/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/x.svg" alt="X" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/Twitter.svg" alt="X" style="max-width: 100%;">
 </a>
 </p>
 [![Instagram](https://raw.githubusercontent.com/aliberkyucel/aliberkyucel/main/instagram-icon.svg)](https://instagram.com/aliberkyucel)  
