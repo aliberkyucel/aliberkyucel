@@ -55,6 +55,7 @@ I contribute to open-source projects—fixing bugs, improving docs, and adding f
 ## Contact & Socials
 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram" style="max-width: 100%;">
 <!-- Icons use raw files in your repo: add the SVGs to the root of the `aliberkyucel/aliberkyucel` repo with the filenames used below to show images. -->
+<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" style="max-width: 100%;">
 
 [![Instagram](https://raw.githubusercontent.com/aliberkyucel/aliberkyucel/main/instagram-icon.svg)](https://instagram.com/aliberkyucel)  
 [![LinkedIn](https://raw.githubusercontent.com/aliberkyucel/aliberkyucel/main/linkedin-icon.svg)](https://www.linkedin.com/in/aliberkyucel)  
