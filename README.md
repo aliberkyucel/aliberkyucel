@@ -122,18 +122,16 @@ I'm a software developer focused on building scalable web applications, reliable
 <a href="#"><img src="https://camo.githubusercontent.com/b3dfe12b3bf2984949d933e94d7f8f82771f7ff12c0701d77cb536fbcff9b951/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d44656269616e2d3035313232413f7374796c653d666c6174266c6f676f3d44656269616e266c6f676f436f6c6f723d413842394343" alt="Debian" data-canonical-src="https://img.shields.io/badge/-Debian-05122A?style=flat&amp;logo=Debian&amp;logoColor=A8B9CC" style="max-width: 100%;"></a>&nbsp;
 </p>
 ---
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/aliberkyucel/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/aliberkyucel" aria-keyshortcuts="Alt+ArrowUp">@aliberkyucel
-</a>
 ## Projects & Board
 - Project board: [aliberkyucel Projects](https://github.com/users/aliberkyucel/projects/1)
 
 Featured projects (replace placeholders with your repos and descriptions):
 - Project One — Short description.  
   - Tech: TypeScript, Next.js  
-  - Link: https://github.com/yourusername/project-one
+  - Link: https://github.com/aliberkyucel/eses
 - Project Two — Short description.  
   - Tech: Go, gRPC  
-  - Link: https://github.com/yourusername/project-two
+  - Link: https://github.com/aliberkyucel/oses
 
 ---
 
