@@ -127,10 +127,10 @@ I'm a software developer focused on building scalable web applications, reliable
 - Project board: [aliberkyucel Projects](https://github.com/users/aliberkyucel/projects/1)
 
 Featured projects:
-- Project One — Short description.  
+- Project One — @aliberkyucel/eses.  
   - Tech: TypeScript, Next.js  
   - Link: https://github.com/aliberkyucel/eses
-- Project Two — Short description.  
+- Project Two — @aliberkyucel/oses.  
   - Tech: Go, gRPC  
   - Link: https://github.com/aliberkyucel/oses
 </p>
