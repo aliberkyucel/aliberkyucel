@@ -63,6 +63,7 @@ I contribute to open-source projects—fixing bugs, improving docs, and adding f
 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram" style="max-width: 100%;">
 </a>
 </p>
+
 - Instagram: https://instagram.com/aliberkyucel  
 - LinkedIn: https://www.linkedin.com/in/aliberkyucel  
 - X: https://x.com/aliberkyucel  
