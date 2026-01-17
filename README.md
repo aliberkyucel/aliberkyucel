@@ -61,21 +61,14 @@ I contribute to open-source projects—fixing bugs, improving docs, and adding f
 </a>
 <a href="https://www.instagram.com/aliberkyucel/" rel="nofollow">
 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram" style="max-width: 100%;">
-<a href="https://www.x.com/aliberkyucel/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/Twitter.svg" alt="X" style="max-width: 100%;">
 </a>
 </p>
-[![Instagram](https://raw.githubusercontent.com/aliberkyucel/aliberkyucel/main/instagram-icon.svg)](https://instagram.com/aliberkyucel)  
-[![LinkedIn](https://raw.githubusercontent.com/aliberkyucel/aliberkyucel/main/linkedin-icon.svg)](https://www.linkedin.com/in/aliberkyucel)  
-[![X](https://raw.githubusercontent.com/aliberkyucel/aliberkyucel/main/x-icon.svg)](https://x.com/aliberkyucel)  
-[![RSS](https://raw.githubusercontent.com/aliberkyucel/aliberkyucel/main/rss-icon.svg)](https://aliberkyucel.com/rss)  
-
 - Instagram: https://instagram.com/aliberkyucel  
 - LinkedIn: https://www.linkedin.com/in/aliberkyucel  
 - X: https://x.com/aliberkyucel  
 - Website / RSS: https://aliberkyucel.com (RSS: https://aliberkyucel.com/rss)  
 - Email: [info@aliberkyucel.com](mailto:info@aliberkyucel.com)
-
+</p>
 ---
 
 ## What I'm Learning
