@@ -1,5 +1,5 @@
 # Hi, I'm aliberkyucel 👋
-
+<img src="https://camo.githubusercontent.com/ffd2c18ec12ee4d59de5a1ec280823bb08665a145e8746f02816581fe732728d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6177732c617a7572652c6370702c636d616b652c646f636b65722c6769742c6769746875622c6a732c6c696e75782c706f7374677265732c70792c646f746e65742c756e7265616c2c7079636861726d" alt="Skills and tools" data-canonical-src="https://skillicons.dev/icons?i=aws,azure,cpp,cmake,docker,git,github,js,linux,postgres,py,dotnet,unreal,pycharm" style="max-width: 100%;">
 > Building elegant solutions, one commit at a time.  
 > Full‑stack developer • Open‑source enthusiast • Lifelong learner
 
