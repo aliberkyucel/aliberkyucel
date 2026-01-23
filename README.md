@@ -30,3 +30,189 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1593cb9421b3b83553ca4a3a81cbe068199b347f649f4732c2a60c4d77322356/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f475341502d3838434530323f7374796c653d706c6173746963266c6f676f3d677265656e736f636b266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/1593cb9421b3b83553ca4a3a81cbe068199b347f649f4732c2a60c4d77322356/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f475341502d3838434530323f7374796c653d706c6173746963266c6f676f3d677265656e736f636b266c6f676f436f6c6f723d626c61636b" alt="GSAP" data-canonical-src="https://img.shields.io/badge/GSAP-88CE02?style=plastic&amp;logo=greensock&amp;logoColor=black" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/12abe2aec8c7eb513c97bb9e655970610ca45eb1dc707540007cee78dabd89fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54687265652e6a732d3030303030303f7374796c653d706c6173746963266c6f676f3d74687265652e6a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/12abe2aec8c7eb513c97bb9e655970610ca45eb1dc707540007cee78dabd89fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54687265652e6a732d3030303030303f7374796c653d706c6173746963266c6f676f3d74687265652e6a73266c6f676f436f6c6f723d7768697465" alt="Three.js" data-canonical-src="https://img.shields.io/badge/Three.js-000000?style=plastic&amp;logo=three.js&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hizmetlerimiz - Siyah Tasarım</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 40px 20px;
+        }
+
+        .container {
+            display: grid;
+            /* Masaüstünde tam 3 sütun */
+            grid-template-columns: repeat(3, 1fr); 
+            gap: 20px;
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+
+        .card {
+            /* Siyah tonlarında şık bir geçiş */
+            background: linear-gradient(135deg, #1a1a1a 0%, #333333 100%);
+            border-radius: 12px;
+            padding: 30px 20px;
+            color: white;
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 250px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+        }
+
+        .card i {
+            font-size: 40px;
+            margin-bottom: 15px;
+            color: #ffffff;
+        }
+
+        .card h3 {
+            margin: 0 0 15px 0;
+            font-size: 1.15rem;
+        }
+
+        .card h3 a {
+            color: white;
+            text-decoration: none;
+            border-bottom: 1px solid rgba(255,255,255,0.2);
+        }
+
+        .card ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            font-size: 0.85rem;
+            line-height: 1.6;
+            text-align: left;
+            opacity: 0.85;
+        }
+
+        .card ul li::before {
+            content: "✓";
+            margin-right: 8px;
+            font-size: 10px;
+        }
+
+        /* Tablet ve Mobil Uyumluluk */
+        @media (max-width: 900px) {
+            .container { grid-template-columns: repeat(2, 1fr); }
+        }
+        @media (max-width: 600px) {
+            .container { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    
+    <div class="card">
+        <i class="fas fa-laptop-code"></i>
+        <h3><a href="https://aliberkbilisim.wordpress.com/web-tasarim-yazilim/">Web & Yazılım</a></h3>
+        <ul>
+            <li>Kurumsal web tasarımı</li>
+            <li>Mobil uyumlu yapılar</li>
+            <li>Özel yazılım geliştirme</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <i class="fas fa-hashtag"></i>
+        <h3><a href="https://aliberkbilisim.wordpress.com/sosyal-medya-yonetimi/">Sosyal Medya</a></h3>
+        <ul>
+            <li>İçerik planlama</li>
+            <li>Hesap yönetimi</li>
+            <li>Reklam & Kampanya</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <i class="fas fa-chart-pie"></i>
+        <h3><a href="https://aliberkbilisim.wordpress.com/dijital-reklam-cozumleri/">Dijital Reklam</a></h3>
+        <ul>
+            <li>Google & Meta Ads</li>
+            <li>Bütçe optimizasyonu</li>
+            <li>Performans raporlama</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <i class="fas fa-store"></i>
+        <h3><a href="https://aliberkbilisim.wordpress.com/e-ticaret-sistemleri/">E-Ticaret</a></h3>
+        <ul>
+            <li>Ödeme altyapısı</li>
+            <li>Ürün yönetimi</li>
+            <li>Güvenlik entegrasyonu</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <i class="fas fa-mobile-alt"></i>
+        <h3><a href="https://aliberkbilisim.wordpress.com/uygulama-gelistirme-ve-tasarim/">Uygulama Geliştirme</a></h3>
+        <ul>
+            <li>iOS & Android</li>
+            <li>UI/UX Tasarımı</li>
+            <li>Sistem entegrasyonu</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <i class="fas fa-search"></i>
+        <h3><a href="https://aliberkbilisim.wordpress.com/seo-hizmetleri/">SEO Hizmetleri</a></h3>
+        <ul>
+            <li>Anahtar kelime analizi</li>
+            <li>Teknik SEO</li>
+            <li>Sıralama takibi</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <i class="fas fa-plug"></i>
+        <h3><a href="https://aliberkbilisim.wordpress.com/api-gelistirme-hizmetleri/">API Geliştirme</a></h3>
+        <ul>
+            <li>Özel API tasarımı</li>
+            <li>Veri entegrasyonu</li>
+            <li>Güvenlik yönetimi</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <i class="fas fa-cloud"></i>
+        <h3><a href="https://aliberkbilisim.wordpress.com/bulut-tabanli-sistemler/">Bulut Sistemler</a></h3>
+        <ul>
+            <li>Altyapı yönetimi</li>
+            <li>Veri yedekleme</li>
+            <li>Ölçeklenebilirlik</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <i class="fas fa-robot"></i>
+        <h3><a href="https://aliberkbilisim.wordpress.com/yapay-zeka-entegrasyonlari/">Yapay Zeka</a></h3>
+        <ul>
+            <li>Süreç otomasyonu</li>
+            <li>Chatbot çözümleri</li>
+            <li>Veri analizi AI</li>
+        </ul>
+    </div>
+
+</div>
+
+</body>
+</html>
+
