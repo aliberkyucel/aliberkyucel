@@ -111,7 +111,7 @@
 
 <div align="center">
   <br />
-  <a href="mailto:info@aliberkbilisim.com"><img src="https://img.icons8.com/ios-filled/50/000000/mail.png" width="28"/></a> &nbsp;&nbsp;
+  <a href="mailto:info@aliberkyucel.com"><img src="https://img.icons8.com/ios-filled/50/000000/mail.png" width="28"/></a> &nbsp;&nbsp;
   <a href="https://aliberkbilisim.wordpress.com/rss"><img src="https://img.icons8.com/ios-filled/50/000000/rss.png" width="28"/></a> &nbsp;&nbsp;
   <a href="https://github.com/aliberkyucel"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="28"/></a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/aliberkyucel/"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" width="28"/></a> &nbsp;&nbsp;
